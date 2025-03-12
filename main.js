@@ -1,1 +1,2 @@
-this is a new file
+let name = "Prem"
+console.log(name)
